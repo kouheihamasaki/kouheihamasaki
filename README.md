@@ -2,6 +2,9 @@
 <h4 align="center">I am going to programming school to become an engineer this year.</h4>
 <h4 align="center">I like this school because it has a team development curriculum.</h4>
 <h4 align="center">I learned a lot from the "nagano-cake" that I created with the members.</h4>
+<h4 align="center">↓This is my portfolio titled "Jokyo shitemo Jimotomen".↓</h4>
+<h4 align="center">(https://github.com/kouheihamasaki/jokyoshitemo_jimotomen)</h4>
+
 <h3 align="center">thank you!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kouheihamasaki&label=Profile%20views&color=0e75b6&style=flat" alt="kouheihamasaki" /> </p>
