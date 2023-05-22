@@ -1,7 +1,7 @@
 <h1 align="center">☆Hi, I'm Kohei☆</h1>
 <h4 align="center">I am going to programming school to become an engineer this year.</h4>
 <h4 align="center">I like this school because it has a team development curriculum.</h4>
-<h4 align="center">I learned a lot from the "nagano-cake" that I created with the members.</h4>
+<h4 align="center">I am currently studying AI and python, and I am using Zenn(https://zenn.dev/waiwawaiwai) for output.</h4>
 <h4 align="center">↓This is my portfolio titled "Jokyo shitemo Jimotomen".↓</h4>
 <h4 align="center">(https://github.com/kouheihamasaki/jokyoshitemo_jimotomen)</h4>
 
